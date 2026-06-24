@@ -321,8 +321,4 @@ java -jar target/DataStructuresVisualizationBackend-0.0.1-SNAPSHOT.jar
 ## Author
 
 **Giorgi Pavliashvili**
-Backend Java Developer
-LinkedIn: https://www.linkedin.com/in/giorgi-pavliashvili-6718861b6/
-GitHub: https://github.com/Xorxe7421
-
----
+[LinkedIn](https://www.linkedin.com/in/giorgi-pavliashvili-6718861b6/)
